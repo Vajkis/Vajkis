@@ -1,1 +1,1 @@
-  - uses: user/metrics@master
+![Metrics](/github-metrics.svg)
